@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "company": "Urban Company",
+    "title": "Business Development (Sales)",
+    "latitude": "21.170240",
+    "longitude": "72.831062",
+    "experience": "4-5 yrs",
+    "desc": "We at Urban Company (earlier UrbanClap) are enabling commerce for home services. Over the last 5+ years, since starting the company, we have emerged as a clear market leader in India and backed by the best investors with ~100 million in raised capital. We are now investing deeply in our capabilities, across technology, training, supply, etc., to literally introduce India to a branded service experience, and in the process creating hundreds of thousands of jobs for the service sector. After having done well in all the premium cities in India, we are now international and live in Dubai, Australia & Singapore. We are amongst the fastest and the most stable mid-sized consumer tech startups in the country, with a fantastic team of problem solvers."
+  },
+  {
+    "id": 2,
+    "company": "Policy Bazaar",
+    "title": "Human Resources (HR)",
+    "latitude": "28.459497",
+    "longitude": "77.026634",
+    "experience": "3-4 yrs",
+    "desc": "Policybazaar.com is India's leading online insurance comparison portal that has - since its inception in June 2008 - earned for itself the trust and goodwill of over 5,000,000 customers seeking both life and non-life insurance. Our vision is to empower the Indian consumers, help them compare and make an informed choice for their various insurance needs. PaisaBazaar - a PolicyBazaar.com venture - is India's largest online destination for all kinds of loans, credit cards, and other financial products. Since its inception in early 2014, the company has marked a staggering growth in terms of widening its customer base to almost half a million customers."
+  },
+  {
+    "id": 3,
+    "company": "Google",
+    "title": "SDE-1",
+    "latitude": "13.082680",
+    "longitude": "80.270721",
+    "experience": "5-6yrs",
+    "desc": "The Indian Institute of Technology, Bombay (IITB) is one of the fifteen higher institutes of technology in the country set up with the objective of making facilities available for higher education, research, and training in various fields of science and technology. With the same mission and vision, Prof. Ganesh Ramakrishnan is gearing to take rural India a leap ahead. For his outstanding contributions, he has also been awarded the IBM Faculty Award in 2011."
+  },
+  {
+    "id": 4,
+    "company": "Amazon",
+    "title": "SDE-2",
+    "latitude": "45.11154",
+    "longitude": "77.15100",
+    "experience": "5-6yrs",
+    "desc": "The Indian Institute of Technology, Bombay (IITB) is one of the fifteen higher institutes of technology in the country set up with the objective of making facilities available for higher education, research, and training in various fields of science and technology. With the same mission and vision, Prof. Ganesh Ramakrishnan is gearing to take rural India a leap ahead. For his outstanding contributions, he has also been awarded the IBM Faculty Award in 2011."
+  }
+]
